@@ -1,2 +1,2 @@
-# Form-Builder-API
-Form Builder API to be integrated with the Service Desk Framework
+# Bitcraft Template Engine (BTE)
+API to be integrated with the Bitcraft Service Desk Framework
